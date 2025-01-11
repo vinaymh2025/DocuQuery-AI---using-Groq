@@ -23,7 +23,7 @@ DocuQuery AI is an intelligent document query application that allows users to u
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/docuquery-ai.git
+   git clone https://github.com/vinaymh2025/DocuQuery-AI---using-Groq.git
    cd docuquery-ai
    ```
 
